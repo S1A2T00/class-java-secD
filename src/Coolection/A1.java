@@ -12,7 +12,7 @@ public class A1 {
         list.add(12.5);
         ArrayList list1=new ArrayList();
         list1.add(11);
-        list1.add(index: 0,element: 120);
+        list1.add(0, 120);
         list1.add(list);
         System.out.println(list1);
         for(Object i:list){
